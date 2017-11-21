@@ -1,6 +1,10 @@
 # blockathon-example
 Collection of some sample scripts using web3.js and ethereumjs libraries, used for IBL Blockathon 2017 contest
 
+## Structure
+/token: Session #3 - Ethereum & Smart contract programming
+/ethereum_integration: Session #5 - Smart contract integration
+
 ## Prerequisite
 - Install Nodejs
 - Install truffle framework
