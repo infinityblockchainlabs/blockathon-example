@@ -1,0 +1,21 @@
+{
+  "name": "contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^2.4.0",
+    "ethereumjs-wallet": "^0.6.0",
+    "web3": "^0.18.4",
+    "web3-provider-engine": "^8.6.1",
+    "zeppelin-solidity": "^1.4.0"
+  }
+}
